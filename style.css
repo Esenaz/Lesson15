@@ -14,14 +14,15 @@ body {
     padding: 60px;
     background-color: white;
     margin: 100px;
+    color: chocolate;
 }
 .pic{
     width: 200px;
     height: 200px;
-    background-color: rgb(23, 225, 29);
+    background-color: rgb(68, 20, 192);
 }
 button {
-    background-color: red;
+    background-color: rgb(25, 159, 200);
     color: white;
     border: none;
     width: 200px;
